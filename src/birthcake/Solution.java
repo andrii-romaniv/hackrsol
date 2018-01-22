@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class Solution {
 
     static int birthdayCakeCandles(int n, int[] ar) {
-        // Complete this function
         int max = ar[0];
         int c = 0;
         for (int i=0; i< n; i++){
