@@ -1,4 +1,4 @@
-package st;
+package java.st;
 
 import java.util.Scanner;
 

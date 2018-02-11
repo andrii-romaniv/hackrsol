@@ -1,8 +1,6 @@
-package datatypes;
+package java.datatypes;
 
 import java.util.*;
-import java.io.*;
-
 
 
 class Datatypes{

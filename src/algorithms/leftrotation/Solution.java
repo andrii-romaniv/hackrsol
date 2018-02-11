@@ -1,4 +1,4 @@
-package leftrotation;
+package algorithms.leftrotation;
 
 import java.util.Scanner;
 

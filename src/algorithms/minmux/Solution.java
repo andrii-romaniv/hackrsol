@@ -1,4 +1,4 @@
-package minmux;
+package algorithms.minmux;
 
 import java.util.Scanner;
 

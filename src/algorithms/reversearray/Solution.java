@@ -1,4 +1,4 @@
-package reversearray;
+package algorithms.reversearray;
 
 import java.util.Scanner;
 

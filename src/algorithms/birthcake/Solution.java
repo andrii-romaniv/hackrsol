@@ -1,4 +1,4 @@
-package birthcake;
+package algorithms.birthcake;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package eof;
+package java.eof;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package multi;
+package java.multi;
 
 import java.util.Scanner;
 

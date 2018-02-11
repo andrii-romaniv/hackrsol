@@ -1,4 +1,4 @@
-package grading;
+package algorithms.grading;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Breakingrecords;
+package algorithms.Breakingrecords;
 
 import java.util.Scanner;
 

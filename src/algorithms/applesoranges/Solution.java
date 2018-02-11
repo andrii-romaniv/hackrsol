@@ -1,4 +1,4 @@
-package applesoranges;
+package algorithms.applesoranges;
 
 import java.util.Scanner;
 
