@@ -1,5 +1,7 @@
 package algorithms.binarytree_find_max;
 
+import algorithms.TreeNode;
+
 public class Solution {
     public int findMax(TreeNode root) {
         return find(root, Integer.MIN_VALUE);
