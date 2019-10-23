@@ -1,5 +1,7 @@
 package algorithms.firecode.delete_at_head_circular;
 
+import algorithms.ListNode;
+
 public class Solution {
     public ListNode deleteAtHead(ListNode head) {
         if (head == null) return null;
