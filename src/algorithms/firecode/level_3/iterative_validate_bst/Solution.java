@@ -1,6 +1,6 @@
 package algorithms.firecode.level_3.iterative_validate_bst;
 
-import algorithms.TreeNode;
+import algorithms.firecode.TreeNode;
 
 import java.util.LinkedList;
 

@@ -1,6 +1,6 @@
 package algorithms.firecode.level_2.binary_tree_size;
 
-import algorithms.TreeNode;
+import algorithms.firecode.TreeNode;
 
 public class Solution {
     public int size(TreeNode root) {

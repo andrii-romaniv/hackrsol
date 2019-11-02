@@ -1,6 +1,6 @@
 package algorithms.firecode.level_2.binry_tree_leaves;
 
-import algorithms.TreeNode;
+import algorithms.firecode.TreeNode;
 
 public class Solution {
     public int numberOfLeaves(TreeNode root) {

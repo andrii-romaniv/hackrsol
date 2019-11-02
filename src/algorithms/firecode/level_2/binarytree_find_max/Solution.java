@@ -1,6 +1,6 @@
 package algorithms.firecode.level_2.binarytree_find_max;
 
-import algorithms.TreeNode;
+import algorithms.firecode.TreeNode;
 
 public class Solution {
     public int findMax(TreeNode root) {

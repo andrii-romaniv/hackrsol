@@ -1,6 +1,6 @@
 package algorithms.firecode.level_2.iterative_preorder_traversal;
 
-import algorithms.TreeNode;
+import algorithms.firecode.TreeNode;
 
 import java.util.ArrayList;
 import java.util.Stack;

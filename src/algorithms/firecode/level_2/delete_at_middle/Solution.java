@@ -1,6 +1,6 @@
 package algorithms.firecode.level_2.delete_at_middle;
 
-import algorithms.ListNode;
+import algorithms.firecode.ListNode;
 
 public class Solution {
     public ListNode deleteAtMiddle(ListNode head, int position) {

@@ -1,6 +1,6 @@
 package algorithms.firecode.level_2.binary_tree_find_node;
 
-import algorithms.TreeNode;
+import algorithms.firecode.TreeNode;
 
 import java.util.LinkedList;
 import java.util.Queue;

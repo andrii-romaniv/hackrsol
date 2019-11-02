@@ -1,6 +1,6 @@
 package algorithms.firecode.level_2.validate_bst;
 
-import algorithms.TreeNode;
+import algorithms.firecode.TreeNode;
 
 public class Solution {
 
