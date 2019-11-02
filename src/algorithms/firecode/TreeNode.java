@@ -1,4 +1,4 @@
-package algorithms;
+package algorithms.firecode;
 
 public class TreeNode {
     public int data;
