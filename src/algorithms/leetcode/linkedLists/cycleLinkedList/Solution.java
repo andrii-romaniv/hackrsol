@@ -1,4 +1,4 @@
-package algorithms.leetcode.cycleLinkedList;
+package algorithms.leetcode.linkedLists.cycleLinkedList;
 
 import algorithms.firecode.ListNode;
 

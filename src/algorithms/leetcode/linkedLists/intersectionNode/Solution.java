@@ -1,4 +1,4 @@
-package algorithms.leetcode.intersectionNode;
+package algorithms.leetcode.linkedLists.intersectionNode;
 
 import algorithms.firecode.ListNode;
 

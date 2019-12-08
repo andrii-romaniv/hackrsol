@@ -1,4 +1,4 @@
-package algorithms.leetcode.removeNNodeFromLinked;
+package algorithms.leetcode.linkedLists.removeNNodeFromLinked;
 
 import algorithms.firecode.ListNode;
 
