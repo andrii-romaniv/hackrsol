@@ -1,6 +1,6 @@
 package algorithms.leetcode.linkedLists.evenOddLinkedList;
 
-import algorithms.firecode.ListNode;
+import algorithms.ListNode;
 
 class Solution {
     public ListNode oddEvenList(ListNode head) {

@@ -1,6 +1,6 @@
 package algorithms.leetcode.linkedLists.intersectionNode;
 
-import algorithms.firecode.ListNode;
+import algorithms.ListNode;
 
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {

@@ -1,6 +1,6 @@
 package algorithms.leetcode.linkedLists.cycledLinkedList2;
 
-import algorithms.firecode.ListNode;
+import algorithms.ListNode;
 
 import java.util.HashSet;
 import java.util.Set;

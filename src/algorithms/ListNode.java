@@ -1,4 +1,4 @@
-package algorithms.firecode;
+package algorithms;
 
 public class ListNode {
     public int data;

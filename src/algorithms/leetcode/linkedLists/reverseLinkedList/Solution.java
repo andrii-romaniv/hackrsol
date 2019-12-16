@@ -1,6 +1,6 @@
 package algorithms.leetcode.linkedLists.reverseLinkedList;
 
-import algorithms.firecode.ListNode;
+import algorithms.ListNode;
 
 class Solution {
     public ListNode reverseList(ListNode head) {

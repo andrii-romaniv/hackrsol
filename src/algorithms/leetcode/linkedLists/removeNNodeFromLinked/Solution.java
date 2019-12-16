@@ -1,6 +1,6 @@
 package algorithms.leetcode.linkedLists.removeNNodeFromLinked;
 
-import algorithms.firecode.ListNode;
+import algorithms.ListNode;
 
 public class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {

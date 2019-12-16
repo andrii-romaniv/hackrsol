@@ -1,6 +1,6 @@
 package algorithms.leetcode.linkedLists.removeElements;
 
-import algorithms.firecode.ListNode;
+import algorithms.ListNode;
 
 class Solution {
     public ListNode removeElements(ListNode head, int val) {

@@ -1,6 +1,6 @@
 package algorithms.leetcode.linkedLists.cycleLinkedList;
 
-import algorithms.firecode.ListNode;
+import algorithms.ListNode;
 
 public class Solution {
     public boolean hasCycle(ListNode head) {

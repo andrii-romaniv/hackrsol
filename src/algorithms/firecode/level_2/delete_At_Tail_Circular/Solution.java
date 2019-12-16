@@ -1,6 +1,6 @@
 package algorithms.firecode.level_2.delete_At_Tail_Circular;
 
-import algorithms.firecode.ListNode;
+import algorithms.ListNode;
 
 public class Solution {
 
