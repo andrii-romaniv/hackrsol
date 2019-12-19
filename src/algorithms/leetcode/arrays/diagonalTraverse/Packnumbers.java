@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 public class Packnumbers {
     public static void main(String[] args) {
@@ -14,9 +16,11 @@ public class Packnumbers {
 
 
 
-    static String [] pack(int[] n){
+    static List pack(int[] n){
+        List list = new ArrayList();
+        String separator = ":";
         Map<String, Integer> numbers = new HashMap<>();
-        List<Integer> list = new ArrayList();
+        List<Integer> listIntegers = new ArrayList();
         int prev = 0;
         int j=n.length-1;
         for (int i = 0; i < n.length; i++){
@@ -31,14 +35,16 @@ public class Packnumbers {
                     numbers.put(a, count);
                 }
             } else {
-                    list.add(n[i]);
+                listIntegers.add(n[i]);
             }
             j--;
             prev = n[i];
         }
 
-        //we are done we just need get together these collections
-        return null;
+        numbers.forEach((s, integer) -> {
+            list.add(new String(s+separator+integer));
+        });
+        return (List) Stream.of(list, listIntegers).flatMap(x-> x.stream()).collect(Collectors.toList());
     }
 
 
