@@ -30,13 +30,13 @@ public class Solution {
     }
 
     public static void main( String args[] ) {
-//        String input_str1 = "{{}}()[()]";
-//        String input_str2 = "(][)";
-//        String input_str3 = ")";
+        String input_str1 = "{{}}()[()]";
+        String input_str2 = "(][)";
+        String input_str3 = ")";
         String input_str4 = "(()])}[}[}[]][}}[}{})][[(]({])])}}(])){)((){";
-//        System.out.println(isValid(input_str1));
-//        System.out.println(isValid(input_str2));
-//        System.out.println(isValid(input_str3));
+        System.out.println(isValid(input_str1));
+        System.out.println(isValid(input_str2));
+        System.out.println(isValid(input_str3));
         System.out.println(isValid(input_str4));
         System.out.println(input_str4.length());
     }
