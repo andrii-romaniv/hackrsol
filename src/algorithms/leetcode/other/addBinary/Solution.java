@@ -1,3 +1,5 @@
+package algorithms.leetcode.other.addBinary;
+
 class Solution {
     public String addBinary(String a, String b) {
         StringBuilder builder = new StringBuilder();
