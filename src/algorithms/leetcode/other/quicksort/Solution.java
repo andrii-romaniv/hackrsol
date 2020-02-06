@@ -22,7 +22,7 @@ public class Solution {
             }
         }
         swap(arr, i + 1, right);
-        return i + 1; // Return the pivot's final resting position
+        return i + 1;
     }
 
     public void swap(int[]arr, int first, int second){
