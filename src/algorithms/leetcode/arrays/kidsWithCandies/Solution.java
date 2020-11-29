@@ -1,4 +1,4 @@
-package algorithms.leetcode.kidsWithCandies;
+package algorithms.leetcode.arrays.kidsWithCandies;
 
 import java.util.ArrayList;
 import java.util.List;
